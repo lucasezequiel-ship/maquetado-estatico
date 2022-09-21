@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<link rel="stylesheet" href="estilos.css">-->
+    <link rel="shortcut icon" href="imagenes/img/portafolio.png">
+    <title>Maquetado del FrontEnd</title>
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+   <div class="fondo">
+   <img src="imagenes/img/fondo.jpg" width="100%" alt="fondo">
+    </div>
+     </div>
+<section class="main">
+<div class="container">
+    <div class="row">
+    <!--foto y nombre-->
+    <div class=" col-sm-12 col-md-4 col-lg-4 col-xl-4 ">
+        
+       <img src="imagenes/img/foto portafolio.jpg" src="mifoto.jpg" width="60%"  alt="foto portafolio">
+       </div>
+       <div class=" col-sm-12 col-md-8 col-lg-8 col-xl-8 " >
+        <p class="nombre">nombre</p>
+        <p class="apellido">apellido</p>
+    </div>
+    </div>
+    </div>
+    <div class="container">
+    <div class="row">
+    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <p class="edades" >edad</p>
+        <p class="fecha nac.">fecha de nacimiento</p>
+        <p class="documento">documento </p>
+        <p class="cuil">cuil</p>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <p class="pais">pais</p>
+        <p class="provincia">provincia</p>
+        <p class="ciudad">ciudad</p>
+        <p class="calle">calle</p>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <p class="telefono">telefono</p>
+        <p class="gmail">gmail</p>
+        
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <p class="escuela">escuela</p>
+        <p class="fecha">fecha de cursada</p>
+        <p class="localidad">donde se curso</p>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <p class="titulo">diploma</p>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+       <p class="puesto">puesto realizado</p>
+       <p class="fecha">fecha</h2>
+       <p class="nombre">nombre de la empresa</p>
+       <p class="localidad">localidad de la empresa</p>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+    <p class="idioma">idioma</p>
+    <p class="nivel">nivel</p>
+    <p class="certificado">certificado</p>
+</div>
+</div>
+</div>
+
+</section>
+
+
+
+
+
+    <!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+</body>
+</html>
