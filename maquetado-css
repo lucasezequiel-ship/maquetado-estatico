@@ -1,0 +1,54 @@
+
+*{
+    padding: 10px ;
+    font-size: 25px ;
+   
+   
+    
+}
+
+.fotoNombre {
+background-color: rgb(179, 173, 173); 
+border-radius: 50px  ;
+}
+.foto{
+    border-radius: 50%;
+}
+.infPersonal{
+    background-color: rgb(179, 173, 173); 
+border-radius: 50px  ;
+}
+.direccion{
+    background-color: rgb(179, 173, 173); 
+border-radius: 50px  ;
+}
+.contacto{
+    background-color: rgb(179, 173, 173); 
+border-radius: 50px  ;
+}
+.estudios{
+    background-color: rgb(179, 173, 173); 
+border-radius: 50px  ;
+}
+
+.trabajo{
+    background-color: rgb(179, 173, 173); 
+border-radius: 50px  ;
+}
+.idiomas{
+    background-color: rgb(179, 173, 173); 
+border-radius: 50px  ;
+}
+.lapiz{
+    background-color: rgb(179, 173, 173); 
+    border-radius: 50px  ;
+    width: 50px;
+    height: 50px;
+    padding: 0%;
+    margin: 0%;
+    
+}
+.bueno{
+ text-align: center;
+ padding-top: 1px;
+}
